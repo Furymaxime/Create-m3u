@@ -114,4 +114,4 @@ Ce projet est distribué sous licence MIT. Vous êtes libre d'utiliser, modifier
 
 --- 
 
-N'hésitez pas à poser des questions ou à demander des améliorations ! 😊
+N'hésitez pas à poser des questions ou à demander des améliorations 😊
