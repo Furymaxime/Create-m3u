@@ -34,7 +34,7 @@ Ce script batch Windows automatise la création de fichiers `.m3u` pour des doss
    - Double-cliquez sur le fichier `.bat`, **ou**
    - Ouvrez un terminal, naviguez jusqu'au répertoire du script, puis exécutez :
      ```cmd
-     create m3u_Fury.bat
+     Create_m3u.bat
      ```
 
 2. **Entrer les informations demandées** :
